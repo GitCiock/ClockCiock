@@ -1,4 +1,5 @@
 # ClockCiock
+[![Changelog](https://img.shields.io/badge/Changelog-Aggiornamenti-blue?style=flat&logo=git&logoColor=white)](CHANGELOG.md)
 ClockCiock è un orologio multifunzione da scrivania e desktop companion interattivo basato su Arduino Mega 2560 (compatibile con Nano V3), progettato per unire utilità quotidiana, monitoraggio ambientale e intrattenimento.
 
 Il firmware gestisce un'interfaccia a più schermate navigabile tramite pulsanti fisici su un display LCD1602, accompagnata da feedback sonoro su cicalino passivo.
