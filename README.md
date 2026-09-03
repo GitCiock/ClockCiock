@@ -1,5 +1,5 @@
 # ⏰ ClockCiock 🤖
-> *Un orologio multifunzione da scrivania e desktop companion interattivo basato su Arduino Mega 2560 (compatibile con Nano V3).*
+> *Un orologio multifunzione da scrivania e desktop companion interattivo basato su Arduino Mega 2560.*
 [![Changelog](https://img.shields.io/badge/Changelog-Aggiornamenti-blue?style=flat&logo=git&logoColor=white)](CHANGELOG.md)
 
 ---
