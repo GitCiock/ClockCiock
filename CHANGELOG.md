@@ -7,17 +7,11 @@ e segue il Semantic Versioning.
 
 ---
 
-## [v3.2] - 2026-09-04
+## [v3.1] - 2026-09-04
 ### Aggiunto
 - **Sveglia attiva**: Allarme sonoro e visivo silenziabile tramite la pressione di un tasto qualsiasi.
 - **Feedback audio dadi**: Jingle a 4 note riprodotto a ogni tiro di dado (D6, D20, D100).
 - Gestione del cicalino passivo (Passive Buzzer) sul pin D5.
-
----
-
-## [v3.1] - 2026-09-03
-### Aggiunto
-- **Custom Pixel Art**: Creazione di un carattere personalizzato nella CGRAM dell'LCD per disegnare occhi pieni al robottino.
 
 ---
 
