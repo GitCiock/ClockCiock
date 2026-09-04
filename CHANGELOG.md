@@ -2,8 +2,20 @@
 
 Tutte le modifiche degne di nota a questo progetto sono documentate in questo file.
 
-Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.0.0/)
-e segue il Semantic Versioning.
+Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
+
+---
+
+## [v3.3] - 2026-09-04
+### Riformattazione
+- **Riformattazione del codice**: Il codice è stato modificando creando funzioni per schermate e per la logica dei pulsanti.
+- Migliore lettura e comprensione del codice
+---
+
+## [v3.2] - 2026-09-04
+### Aggiunto
+- **Giorno della settimana**: Giorno della settimana visibile nella schermata orologio
+- **Sveglia**: Sveglia attivabile tenendo premuto il tasto 2 nella schermata orologio con relativa icona ON/OFF
 
 ---
 
